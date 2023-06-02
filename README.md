@@ -32,7 +32,7 @@ psql
 ```
 4. Клонирование репозитория:
 ```
-https://github.com/IgorBukharevich/ded95.git
+git clone https://github.com/IgorBukharevich/ded95.git
 ```
 ---
 5. Создать в коталоге conf .env-файл
